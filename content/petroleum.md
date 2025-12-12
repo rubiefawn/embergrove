@@ -5,5 +5,4 @@ aliases:
 tags:
   - thing
 ---
-
-The magically inert form of [[ichor]], which is extremely valuable as a fuel.
+The magically inert form of [[Ichor]], which is extremely valuable as a fuel.

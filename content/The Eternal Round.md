@@ -2,8 +2,9 @@
 title: The Eternal Round
 tags:
   - faction
+aliases:
+  - eternal round
 ---
-
 > It is neither just that any thing should die before its time, nor live beyond it. To obstruct the tender hands of God, who is life and death, is indeed the gravest of sins.
 >
 > —Excerpt from *The Book of the Waning Crescent*
@@ -12,8 +13,8 @@ The Eternal Round is the dominant faith of the Roserei Dominion.
 
 - Undying things are considered a violation of the natural order of the cycle of life and death. Since the Curse renders things immortal, it and the magic derived from it are considered offensive to God.
 - The exception to this are the angels, who the agents of God who exist to purify the world of the deathless, and will not be granted their eternal rest until the last undying thing perishes.
-- The [[moon]], whose light stifles magic but not miracles, is considered the watchful eye of God. [[starsilver | Starsilver]], which shares this anti-magic property, is considered a sacred substance, from which the implements of divine justice are forged.
-- Creating artificial life, particularly that which cannot die, is explicitly forbidden. In the sacred texts this is explained in the story of the "Petrodeus", an idolatrous god (or gods) forged by human hands from metal and fire to save them from sin, who reject them and consume their very souls, forever denying humanity their eternal rest.
+- [[Moon|The Moon]], whose light stifles magic but not miracles, is considered the watchful eye of God. [[Starsilver]], which shares this anti-magic property, is considered a sacred substance, from which holy symbols and the implements of divine justice are forged.
+- Creating artificial life, particularly that which cannot die, is explicitly forbidden. In the sacred texts this is explained in the story of the "Vitrideus", an idolatrous god (or gods) forged by human hands from metal and magic to save them from sin, who reject them and consume their very souls, forever denying humanity their eternal rest.
 - Pursuit of the medical sciences is of great interest to devotees, who view medical practice as an expression of faith, to keep those alive whose time to rest has not yet come.
 - Devotees to the faith are granted the power to work small miracles, which primarily take the form of accelerating natural healing processes. Combined with proper medical education, this makes them very effective.
 
@@ -27,4 +28,4 @@ During the trial, Madonna made the shocking claim that she was in direct communi
 
 However, three months later when the sword's edge fell upon her neck, it was met with no resistance. In that moment she vanished without a trace, right in front of the crowd. As this act was carried out under the light of the full moon, while she was pierced with starsilver, it should not have been possible for any magical trickery to take place. According to her followers, the message was clear: God had decided it was not yet her time to die, and had carried her away to safety in a divine act. Others say there wasn't enough light to see in the first place, such as the Eternal Round, who insist that the execution was successful and that Madonna's remains are in their custody.
 
-Regardless of what actually happened, this catalyzed the formation of the [[Anointed]], a religious movement based on the words and acts of Madonna. Given the Eternal Round's preferential treatment by the [[Iron Serpent]], many assumed it would be stamped out like so many other faiths, but to the surprise of many, the Iron Serpent gave it equal status and legal protection. This made it the second ever religion to gain state sanction.
+Regardless of what actually happened, this catalyzed the formation of the [[The Anointed]], a religious movement based on the words and acts of Madonna. Given the Eternal Round's preferential treatment by the [[Iron Serpent]], many assumed it would be stamped out like so many other faiths, but to the surprise of many, the Iron Serpent gave it equal status and legal protection. This made it the second ever religion to gain state sanction.
